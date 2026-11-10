@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/yamagata-beauty-clinic-ranking/sitemap.xml
